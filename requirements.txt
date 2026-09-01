@@ -1,5 +1,6 @@
 cocos2d==0.6.10
 cpgames==0.1.2
+pillow==12.3.0
 PyAudio==0.2.14
 pygame==2.6.1
 pyglet==1.5.31
